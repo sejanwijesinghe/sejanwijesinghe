@@ -39,7 +39,7 @@
 <h3 align="left">🤝🏻 &nbsp;Connect with me:</h3><br>
 
 <p align="left">
-<a href="https://linkedin.com/in/sejan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sejan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sejan-wijesinghe-3a09ab328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sejan" height="30" width="40" /></a>
 </p>
 <br>
 
